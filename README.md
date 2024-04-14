@@ -1,4 +1,4 @@
-_This is an early alpha version, but it works!_
+_This is an early alpha version, a mockup, but it works!_
 ***
 Here begin the science,
 # System of Units
