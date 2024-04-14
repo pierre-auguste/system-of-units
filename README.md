@@ -1,4 +1,4 @@
-_This is an early alpha version, a mockup, but it works!_
+_This is an early alpha version, a mockup, but it works! Built on **Unreaal Engine**_
 ***
 Here begin the <a href="https://en.wikipedia.org/wiki/Metrology">metrology</a>
 # System of Units
@@ -25,6 +25,13 @@ Have fun with our simulator and travel from the infinitely small to the infinite
   <img src="https://sou.lambelet.net/img/Ant-basketball.jpeg" width="240"><br>
   <sub><i>Ant's point of view</i></sub>
 </p>
+
+
+## Installation guide
+This application uses **Unreal Engine** as game engine.
+* Download and install **Unreal Engine 5**.3
+* Download the **System of Units** contents
+* Launch the application
 
 
 ## General informations
