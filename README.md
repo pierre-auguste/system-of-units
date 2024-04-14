@@ -60,3 +60,12 @@ Don't be angry with our application if there are some mistakes, contact us !
 ### Licenses
 SystemOfUnits : CC BY-NC-ND 4.0<br>
 Unreal Engine : https://www.unrealengine.com/en-US/eula/unreal
+
+
+
+### Contact
+Use <a href="https://github.com/pierre-auguste/system-of-units/discussions">Discussions</a> as first choice.
+
+Contact our main developper for non-public message :<br>
+<a href="mailto:pierre-auguste@lambelet.net">Pierre-Auguste Lambelet</a>
+
