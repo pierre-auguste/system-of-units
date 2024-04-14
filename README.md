@@ -1,9 +1,9 @@
 _This is an early alpha version, a mockup, but it works!_
 ***
-Here begin the science,
+Here begin the <a href="https://en.wikipedia.org/wiki/Metrology">metrology</a>
 # System of Units
 <p align="center">
-<img src="https://sou.lambelet.net/img/SI-Units.png" width="240">
+  <img src="https://sou.lambelet.net/img/SI-Units.png" width="240">
 <p>
 
 ## Description
@@ -14,16 +14,16 @@ Here begin the science,
 Ampere, Candela, Kelvin, Kilo, Meter, Mole, Second where "definitly" redefined in 2019 to use universal constants as references. Learn the link between these units and nature.
 
 <p align="center">
-<img src="https://sou.lambelet.net/img/kibble.png" width="240"><br>
-<sub><i>The Kibble balance is used to define the kilogram.</i></sub>
+  <img src="https://sou.lambelet.net/img/kibble.png" width="240"><br>
+  <sub><i>The Kibble balance is used to define the kilogram.</i></sub>
 <p>
 
 ### A scale simulator
 Have fun with our simulator and travel from the infinitely small to the infinitely large by zooming in powers of ten.
 
 <p align="center">
-<img src="https://sou.lambelet.net/img/Ant-basketball.jpeg" width="240"><br>
-<sub><i>Ant's point of view</i></sub>
+  <img src="https://sou.lambelet.net/img/Ant-basketball.jpeg" width="240"><br>
+  <sub><i>Ant's point of view</i></sub>
 </p>
 
 
