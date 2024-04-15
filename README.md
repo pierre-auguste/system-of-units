@@ -1,12 +1,12 @@
 <p align="center">
   Built on<br>
-  <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="Unreal Engine" width="60px" /><br>
+  <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="Unreal Engine" width="100px" /><br>
   (version 5.3)<br>
   This is an early alpha version, a mockup, but it works!
 </p>
 
 ***
-What's a meter? a kilogram? ... Here begin the <a href="https://en.wikipedia.org/wiki/Metrology">metrology</a>.
+What's a meter? a kilogram? ... Here begin the <a href="https://en.wikipedia.org/wiki/Metrology">metrology</a> with :
 # System of Units
 <p align="center">
   <img src="https://sou.lambelet.net/img/SI-Units.png" width="240px">
