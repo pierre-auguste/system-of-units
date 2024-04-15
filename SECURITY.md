@@ -12,5 +12,5 @@
 Contact our main developper for non-public message :
 pierre-auguste@lambelet.net
 
-Use our public Discussion to report other bugs :
-https://github.com/pierre-auguste/system-of-units/discussions
+Use our public Issues to report other bugs :
+[https://github.com/pierre-auguste/system-of-units/discussions](https://github.com/pierre-auguste/system-of-units/issues)
