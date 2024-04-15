@@ -38,18 +38,3 @@ This application uses **Unreal Engine** as game engine.
 * Download and install **Unreal Engine 5**
 * Download the **System of Units** contents
 * Launch the application
-
-
-## General informations
-
-
-### Where to find us ?
-Here, and **soon** on the following stores :
-* Steam,
-* Oculus store.
-
-
-### Disclaimer
-Dear Scientists,<br>
-Don't be angry with our application if there are some mistakes, contact us !
-:-)
