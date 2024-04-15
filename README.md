@@ -1,5 +1,5 @@
 <p align="center">
-  Built with<br>
+  Built for Virtual Reality Headsets with<br>
   <img src="https://system-of-units.com/img/Unreal/Unreal_Engine_white.png" alt="Unreal Engine" width="100px" /><br>
   (version 5.3)<br>
   Our application is an alpha version, a mockup, but it works!
