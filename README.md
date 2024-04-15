@@ -1,9 +1,15 @@
-_This is an early alpha version, a mockup, but it works! Built on **Unreaal Engine**_
+<p align="center">
+  Built on<br>
+  <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="Unreal Engine" width="60px" /><br>
+  (version 5.3)<br>
+  This is an early alpha version, a mockup, but it works!
+</p>
+
 ***
-Here begin the <a href="https://en.wikipedia.org/wiki/Metrology">metrology</a>
+What's a meter? a kilogram? ... Here begin the <a href="https://en.wikipedia.org/wiki/Metrology">metrology</a>.
 # System of Units
 <p align="center">
-  <img src="https://sou.lambelet.net/img/SI-Units.png" width="240">
+  <img src="https://sou.lambelet.net/img/SI-Units.png" width="240px">
 <p>
 
 ## Description
@@ -14,7 +20,7 @@ Here begin the <a href="https://en.wikipedia.org/wiki/Metrology">metrology</a>
 Ampere, Candela, Kelvin, Kilo, Meter, Mole, Second where "definitly" redefined in 2019 to use universal constants as references. Learn the link between these units and nature.
 
 <p align="center">
-  <img src="https://sou.lambelet.net/img/kibble.png" width="240"><br>
+  <img src="https://sou.lambelet.net/img/kibble.png" width="240px"><br>
   <sub><i>The Kibble balance is used to define the kilogram.</i></sub>
 <p>
 
@@ -22,7 +28,7 @@ Ampere, Candela, Kelvin, Kilo, Meter, Mole, Second where "definitly" redefined i
 Have fun with our simulator and travel from the infinitely small to the infinitely large by zooming in powers of ten.
 
 <p align="center">
-  <img src="https://sou.lambelet.net/img/Ant-basketball.jpeg" width="240"><br>
+  <img src="https://sou.lambelet.net/img/Ant-basketball.jpeg" width="240px"><br>
   <sub><i>Ant's point of view</i></sub>
 </p>
 
