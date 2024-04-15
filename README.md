@@ -2,7 +2,7 @@
   Built on<br>
   <img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="Unreal Engine" width="100px" /><br>
   (version 5.3)<br>
-  This is an early alpha version, a mockup, but it works!
+  Our application is an alpha version, a mockup, but it works!
 </p>
 
 ***
