@@ -38,3 +38,5 @@ This application uses **Unreal Engine** as game engine.
 * Download and install **Unreal Engine 5**,
 * Download the **System of Units** contents,
 * Launch the System of Units application.
+
+Bon courage !
