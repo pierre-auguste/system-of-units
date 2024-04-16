@@ -1,3 +1,5 @@
+https://system-of-units.com
+
 ### How to participate ?
 We need help for the following tasks :
 * **Translations and text corrections.**<br>The application is actualy translated (english, french). The more languages the better it is.
@@ -5,13 +7,11 @@ We need help for the following tasks :
 * **Develop the application**<br>System of Units is build on Unreal 5 engine mostly with blueprints and some C++.
 
 
-### Sources
+### Tools we use to communicate :
+* Communication : https://github.com/pierre-auguste/system-of-units/discussions
+
+
+### Sources used
 * https://www.bipm.org/
 * https://en.wikipedia.org/
 * https://www.nasa.gov/
-
-
-* Étapes permettant de créer des problèmes ou des demandes de tirage utiles.
-* Liens vers de la documentation externe, des listes de diffusion ou un code de conduite.
-* Attentes liées à la communauté et au comportement.
-
