@@ -39,7 +39,7 @@ Have fun with our simulator and travel from the infinitely small to the infinite
 Get it here :
 * https://www.unrealengine.com/en-US/download
 ### 2. Download the **System of Units** contents
-Create a project folder in your workspace. Open a terminal in this folder by click left on the folder backgroun. Then use these commands :
+Create a project folder in your workspace and use git :
 * git init
 * git remote add github https://github.com/pierre-auguste/system-of-units.git
 * git pull github master
