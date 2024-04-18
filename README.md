@@ -2,11 +2,12 @@
   Built for Virtual Reality headsets with<br>
   <img src="https://system-of-units.com/img/Unreal/Unreal_Engine_white.png" alt="Unreal Engine" width="100px" /><br>
   (UE version 5.3),<br>
-  our application is an alpha version, a mockup, but it works!
+  our application is an alpha version, a mockup, but it works!  
 </p>
 
 ***
-What's a meter? a kilogram? a second? ... Here begin the VR <a href="https://en.wikipedia.org/wiki/Metrology">metrology</a> with :
+What's a meter? a kilogram? a second? ... Here begin the VR <a href="https://en.wikipedia.org/wiki/Metrology">metrology</a>
+with :
 # System of Units
 <p align="center">
   <img src="https://system-of-units.com/img/SI-Units.png" width="240px">
@@ -14,10 +15,12 @@ What's a meter? a kilogram? a second? ... Here begin the VR <a href="https://en.
 
 ## Description
 
-> **System of Units is an Open Source and Free VR application made for you to understand the seven fundamental units in physics, and more...**
+> **System of Units is an Open Source and Free VR application made for you to understand the seven fundamental units in
+> physics, and more...**
 
 ### Seven units to rediscover
-Ampere, Candela, Kelvin, Kilo, Meter, Mole, Second where "definitly" redefined in 2019 to use universal constants as references. Learn the link between these units and nature.
+Ampere, Candela, Kelvin, Kilo, Meter, Mole, Second where "definitly" redefined in 2019 to use universal constants as
+references. Learn the link between these units and nature.
 
 <p align="center">
   <img src="https://system-of-units.com/img/kibble.png" width="240px"><br>
