@@ -39,10 +39,11 @@ Have fun with our simulator and travel from the infinitely small to the infinite
 ## Installation guide
 *This application uses **Unreal Engine 5.3** as game engine.*
 ### 1. Download and install **Unreal Engine**
-Get it here :
-* https://www.unrealengine.com/en-US/download
-### 2. Download the **System of Units** contents
-Create a project folder in your workspace and use git :
+Get it here : https://www.unrealengine.com/en-US/download
+### 2. Download and install Git
+Get it here : https://git-scm.com/download/win
+### 3. Download the **System of Units** contents
+Using your terminal create a project folder in your workspace and use git to download System of Units's sources:
 
      mkdir SystemOfUnitts
      cd SystemOfUnits
@@ -50,7 +51,7 @@ Create a project folder in your workspace and use git :
      git remote add github https://github.com/pierre-auguste/system-of-units.git  
      git pull github master
 
-### 3. Launch the System of Units application
-Click on "SystenIfUnits", enjoy !
+### 4. Launch the System of Units application
+Click on "SystenIfUnits". Let the engine build the fame. Enjoy !
 
 **Bon courage !**
