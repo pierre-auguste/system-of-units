@@ -42,8 +42,8 @@ Have fun with our simulator and travel from the infinitely small to the infinite
 Get it here : https://www.unrealengine.com/en-US/download
 ### 2. Download and install Git
 Get it here : https://git-scm.com/download/win
-### 3. Download the **System of Units** contents
-Using your terminal create a project folder in your workspace and use git to download System of Units's sources:
+### 3. Download and lauch System of Units
+Using your terminal create a project folder in your workspace and use git to download System of Units' sources:
 
      mkdir SystemOfUnitts
      cd SystemOfUnits
@@ -51,7 +51,6 @@ Using your terminal create a project folder in your workspace and use git to dow
      git remote add github https://github.com/pierre-auguste/system-of-units.git  
      git pull github master
 
-### 4. Launch the System of Units application
-Click on "SystenIfUnits". Let the engine build the fame. Enjoy !
+Launch "SystenIfUnits" application and let Unreal Engine compile the sources. Enjoy !
 
 **Bon courage !**
