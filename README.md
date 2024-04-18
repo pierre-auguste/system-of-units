@@ -14,7 +14,7 @@ What's a meter? a kilogram? a second? ... Here begin the VR <a href="https://en.
 
 ## Description
 
-> **System of Units is an Open Source and Free VR application, made for you, to understand the seven fundamental units in physics, and more...**
+> **System of Units is an Open Source and Free VR application made for you to understand the seven fundamental units in physics, and more...**
 
 ### Seven units to rediscover
 Ampere, Candela, Kelvin, Kilo, Meter, Mole, Second where "definitly" redefined in 2019 to use universal constants as references. Learn the link between these units and nature.
