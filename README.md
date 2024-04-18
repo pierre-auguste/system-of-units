@@ -44,6 +44,6 @@ Create a project folder in your workspace and use git :
 * git remote add github https://github.com/pierre-auguste/system-of-units.git
 * git pull github master
 ### 3. Launch the System of Units application
-* click "SystenIfUnits", enjoy !
+click on "SystenIfUnits", enjoy !
 
-Bon courage !
+**Bon courage !**
