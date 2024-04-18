@@ -43,9 +43,13 @@ Get it here :
 * https://www.unrealengine.com/en-US/download
 ### 2. Download the **System of Units** contents
 Create a project folder in your workspace and use git :
-* git init
-* git remote add github https://github.com/pierre-auguste/system-of-units.git
-* git pull github master
+
+     mkdir SystemOfUnitts
+     cd SystemOfUnits
+     git init  
+     git remote add github https://github.com/pierre-auguste/system-of-units.git  
+     git pull github master
+
 ### 3. Launch the System of Units application
 Click on "SystenIfUnits", enjoy !
 
