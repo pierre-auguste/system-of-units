@@ -2,7 +2,7 @@
   Built for Virtual Reality headsets with<br>
   <img src="https://system-of-units.com/img/Unreal/Unreal_Engine_white.png" alt="Unreal Engine" width="100px" /><br>
   (UE version 5.3),<br>
-  our application is an alpha version, a mockup, but it works!  
+  our application is an alpha version, a mock-up, but it works!  
 </p>
 
 ***
