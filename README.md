@@ -6,8 +6,7 @@
 </p>
 
 ***
-What's a meter? a kilogram? a second? ... Here begin the VR <a href="https://en.wikipedia.org/wiki/Metrology">metrology</a>
-with :
+What's a Meter? a Kilogram? a Second? ... This is where the VR <a href="https://en.wikipedia.org/wiki/Metrology">metrology</a> begins with :
 # System of Units
 <p align="center">
   <img src="https://system-of-units.com/img/SI-Units.png" width="240px">
@@ -24,7 +23,7 @@ references. Discover the link between these units and nature.
 
 <p align="center">
   <img src="https://system-of-units.com/img/kibble.png" width="240px"><br>
-  <sub><i>The Kibble balance is used to define the kilogram.</i></sub>
+  <sub><i>The Kibble balance is used to define the Kilogram.</i></sub>
 <p>
 
 ### A scale simulator
