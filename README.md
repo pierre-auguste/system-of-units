@@ -19,8 +19,8 @@ with :
 > physics, and more...**
 
 ### Seven units to rediscover
-Ampere, Candela, Kelvin, Kilo, Meter, Mole, Second where "definitly" redefined in 2019 to use universal constants as
-references. Learn the link between these units and nature.
+Ampere, Candela, Kelvin, Kilo, Meter, Mole, Second were "definitely" redefined in 2019 to use universal constants as
+references. Discover the link between these units and nature.
 
 <p align="center">
   <img src="https://system-of-units.com/img/kibble.png" width="240px"><br>
