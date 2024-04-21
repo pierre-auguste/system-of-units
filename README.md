@@ -1,9 +1,9 @@
-<p align="center">
+<div align="center">
   Built for Virtual Reality headsets with<br>
   <img src="https://system-of-units.com/img/Unreal/Unreal_Engine_white.png" alt="Unreal Engine" width="100px" /><br>
   (UE version 5.3),<br>
   our application is an alpha version, a mock-up, but it works!  
-</p>
+</div>
 
 ***
 What's a Meter? a Kilogram? a Second? ... This is where the VR <a href="https://en.wikipedia.org/wiki/Metrology">metrology</a> begins with :
