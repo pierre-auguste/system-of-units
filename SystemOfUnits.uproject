@@ -30,6 +30,10 @@
 		{
 			"Name": "WebBrowserWidget",
 			"Enabled": true
+		},
+		{
+			"Name": "Metasound",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
