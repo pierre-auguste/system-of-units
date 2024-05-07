@@ -53,3 +53,9 @@ Using your terminal create a project folder in your workspace and use Git to dow
 Launch "SystemOfUnits" application and let Unreal Engine compile the sources. Enjoy !
 
 **Bon courage !**
+
+
+## Resources
+
+### Blender's assets
+* https://github.com/pierre-auguste/system-of-units-blender-assets
