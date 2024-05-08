@@ -34,6 +34,7 @@ Have fun with our simulator and travel from the infinitely small to the infinite
   <sub><i>Ant's point of view</i></sub>
 </p>
 
+<hr>
 
 ## Installation guide
 *This application uses **Unreal Engine 5.3** as game engine.*
@@ -54,6 +55,7 @@ Launch "SystemOfUnits" application and let Unreal Engine compile the sources. En
 
 **Bon courage !**
 
+<hr>
 
 ## Resources
 
