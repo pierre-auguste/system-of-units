@@ -6,8 +6,8 @@
 </div>
 
 ***
-What's a Meter? a Kilogram? a Second? ... This is where the VR <a href="https://en.wikipedia.org/wiki/Metrology">metrology</a> begins with :
-# System of Units
+<p align="center"><i>What's a Meter? a Kilogram? a Second? ... This is where the VR <a href="https://en.wikipedia.org/wiki/Metrology">metrology</a> begins with :</i></p>
+<h1 align="center">System of Units</h1>
 <p align="center">
   <img src="https://system-of-units.com/img/SI-Units.png" width="240px">
 <p>
