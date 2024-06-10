@@ -30,13 +30,13 @@
 		{
 			"Name": "WebBrowserWidget",
 			"Enabled": true
+		},
+		{
+			"Name": "Metasound",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
-		"Android",
-		"IOS",
-		"Linux",
-		"Mac",
 		"PS4",
 		"PS5",
 		"Windows",
