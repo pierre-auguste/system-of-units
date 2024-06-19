@@ -1,0 +1,7 @@
+The elementary charge (e) is the fundamental and indivisible unit of electric charge. It is carried by subatomic particles such as protons and electrons.
+
+A proton carries a positive elementary charge (+e), while an electron carries an equal but negative elementary charge (-e).
+
+---
+
+This charge is a basic building block of electric interactions and is a critical concept in the study of electromagnetism and particle physics. Its approximate value is 1.602 x 10^-19 coulombs.

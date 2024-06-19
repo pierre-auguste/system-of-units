@@ -1,0 +1,31 @@
+May I present to you our cesium atomic clock? We will endeavor to determine the correct frequency to excite the caesium 133 atoms.
+
+Step 1 : By turning on the blue button on the left, you will fill the oven (a vacuum) with some Cesium-133 gas.
+
+---
+
+Step 2 : The first red button will cool the atoms to near absolute zero temperature by slowing them down with four lasers.
+
+Look in the oven.
+
+---
+
+Step 3 : The second red button activates another laser to add velocity to these atoms and confine the Cesium into a coherent beam.
+
+Each atom has one of two possible energy states, which are referred to as hyperfine levels. For the sake of simplicity, let's call them state A and state B.
+
+---
+
+Step 4 : First green button powers on a magnetic field which removes all atoms in state B from the beam, so only atoms in state A remain.
+
+The state-A atoms are sent through a resonator where they will be subjected to microwave radiation, which triggers some of the atoms to change to state B.
+
+---
+
+Step 5 : Second green button, right to the resonator, will ensure atoms that are still in state A are removed by a second magnetic field.
+
+---
+
+Step 6 : The red button will activate the microwaves in the resonator. A detector then counts all atoms that have changed to state B.
+
+The percentage of atoms that change their state while passing through the resonator depends on the frequency of the microwave radiation. The more it is in sync with the inherent oscillation frequency of the atoms, the more atoms change their state. The goal is to precisely tune the microwave frequency to match the oscillation frequency of the atoms, and then measure it. After exactly 9,192,631,770 oscillations, one second has passed.

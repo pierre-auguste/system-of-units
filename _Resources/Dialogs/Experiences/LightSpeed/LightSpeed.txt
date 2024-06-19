@@ -1,0 +1,7 @@
+The speed of light, denoted as "c," is a fundamental physical constant that represents the velocity at which electromagnetic waves, including visible light, propagate through a vacuum.
+
+This universal speed limit was elucidated by Albert Einstein's theory of special relativity, which he introduced in 1905.
+
+---
+
+In the International System of Units (SI), the speed of light is 299,792,458 meters per second. One meter is the distance traveled by the light in one second divided by 299,792,458.
