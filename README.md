@@ -6,8 +6,8 @@
 </div>
 
 ***
-What's a Meter? a Kilogram? a Second? ... This is where the VR <a href="https://en.wikipedia.org/wiki/Metrology">metrology</a> begins with :
-# System of Units
+<p align="center"><i>What's a Meter? a Kilogram? a Second? ... This is where the VR <a href="https://en.wikipedia.org/wiki/Metrology">metrology</a> begins with :</i></p>
+<h1 align="center">System of Units</h1>
 <p align="center">
   <img src="https://system-of-units.com/img/SI-Units.png" width="240px">
 <p>
@@ -34,6 +34,7 @@ Have fun with our simulator and travel from the infinitely small to the infinite
   <sub><i>Ant's point of view</i></sub>
 </p>
 
+<hr>
 
 ## Installation guide
 *This application uses **Unreal Engine 5.3** as game engine.*
@@ -53,3 +54,10 @@ Using your terminal create a project folder in your workspace and use Git to dow
 Launch "SystemOfUnits" application and let Unreal Engine compile the sources. Enjoy !
 
 **Bon courage !**
+
+<hr>
+
+## Resources
+
+### Blender's assets
+* https://github.com/pierre-auguste/system-of-units-blender-assets
