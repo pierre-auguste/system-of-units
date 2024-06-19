@@ -1,0 +1,15 @@
+A = V/Ω
+Ampère = Volt / Ohm
+
+Josephson effect (volt)
+-----------------------
+Josephson constant
+KJ = 483 597.848 416 984 GHz V–1 (calculated to 15 significant digits)
+KJ = 2e/h
+
+
+Quantum Hall effect (ohm)
+-------------------------
+von Klitzing constant
+RK = 25 812.807 459 3045 Ω (calculated to 15 significant digits)
+RK = h/e2

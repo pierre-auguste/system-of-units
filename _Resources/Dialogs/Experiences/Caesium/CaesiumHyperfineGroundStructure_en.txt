@@ -1,0 +1,17 @@
+The "Orbits" (A, B, C, D, E, and F) are electron energy levels within an atom.
+
+Note: Caesium's atoms have only one electron on level F. 
+
+The hyperfine structure of an energy level in an atom involves the splitting of this level into very closely spaced energy states.
+
+---
+
+It results from the interaction between the nucleus's magnetic moment and that of the electrons. This allows for precise energy transitions, notably used to establish extremely accurate time standards.
+
+In summary, the hyperfine structure of cesium 133 is like the regular beating of a heart, providing a reliable basis for measuring time.
+
+---
+
+To alter the hyperfine structure of atoms, a technique called microwave spectroscopy is employed. Microwaves absorbed by atoms induce transitions between the energy levels of the hyperfine structure. By observing changes in microwave absorption, one can deduce information about the hyperfine structure of atoms.
+
+Step 1: Find the frequency using the blue button or press the red button to activate the automatic mode.

@@ -1,0 +1,5 @@
+The mole, symbol mol, is the SI unit for amount of substance. One mole contains exactly 6.02214076 × 10^23 elementary entities. This number, known as Avogadro's number, corresponds to the fixed numerical value of the Avogadro constant, NA, when expressed in mol^-1. The amount of substance, symbol n, of a system is a representation of the specified number of elementary entities. An elementary entity can be an atom, a molecule, an ion, an electron, or any other specified particle or group of particles.
+
+---
+
+The Avogadro project aims to redefine Avogadro's constant (currently defined by the kilogram -- the number of atoms in 12 g of carbon-12) and reverse the relationship so that the kilogram is precisely specified by Avogadro's constant. This method required creating the most perfect sphere on Earth. It is made out of a single crystal of silicon 28 atoms. By carefully measuring the diameter, the volume can be precisely specified. Since the atom spacing of silicon is well known, the number of atoms in a sphere can be accurately calculated. This allows for a very precise determination of Avogadro's constant.

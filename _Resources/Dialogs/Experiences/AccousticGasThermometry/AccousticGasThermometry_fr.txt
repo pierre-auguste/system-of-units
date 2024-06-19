@@ -1,0 +1,1 @@
+Le kelvin, symbole K, est l’unité de température thermodynamique du SI. Il est défini en prenant la valeur numérique fixée de la constante de Boltzmann, k, égale à 1,380 649 × 10−23 lorsqu’elle est exprimée en J K−1, unité égale à kg m2 s−2 K−1, le kilogramme, le mètre et la seconde étant définis en fonction de h, c et ∆νCs.

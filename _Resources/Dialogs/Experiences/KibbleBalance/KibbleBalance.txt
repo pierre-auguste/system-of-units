@@ -1,0 +1,14 @@
+The Kibble balance is constructed so that the mass to be measured and the wire coil are suspended from one side of a balance scale, with a counterbalance mass on the other side. The system operates by alternating between two modes: "weighing" and "moving". The entire mechanical subsystem operates in a vacuum chamber to eliminate the effects of air buoyancy.
+
+---
+
+
+While "weighing", the system measures the "I" component and the "v" component. The system controls the current in the coil to pull the coil through a magnetic field at a constant velocity "v". Coil position and velocity measurement circuitry use an interferometer together with a precision clock input to determine the velocity and control the current needed to maintain it. The required current is measured using an ammeter comprising a Josephson junction voltage standard and an integrating voltmeter
+
+---
+
+While "moving", the system measures the "U" component. The system ceases to provide current to the coil. This allows the counterbalance to pull the coil (and mass) upward through the magnetic field, which induces a voltage difference across the coil. The velocity measurement circuitry measures the speed of movement of the coil. This voltage is then measured using the same voltage standard and integrating voltmeter.
+
+---
+
+A typical Kibble balance measures U, I, and v, but does not measure the local gravitational acceleration "g", because "g" does not vary rapidly with time. Instead, "g" is measured in the same laboratory using a highly accurate and precise gravimeter. In addition, the balance depends on a highly accurate and precise frequency reference such as an atomic clock to compute voltage and amperage. Thus, the precision and accuracy of the mass measurement depends on the Kibble balance, the gravimeter, and the clock.

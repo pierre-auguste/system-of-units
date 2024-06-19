@@ -1,0 +1,3 @@
+La mole, symbole mol, est l’unité de quantité de matière du SI. Une mole contient exactement 6,022 140 76 × 1023 entités élémentaires. Ce nombre, appelé « nombre d’Avogadro », correspond à la valeur numérique fixée de la constante d’Avogadro, NA, lorsqu’elle est exprimée en mol−1.
+ 
+La quantité de matière, symbole n, d’un système est une représentation du nombre d’entités élémentaires spécifiées. Une entité élémentaire peut être un atome, une molécule, un ion, un électron, ou toute autre particule ou groupement spécifié de particules.

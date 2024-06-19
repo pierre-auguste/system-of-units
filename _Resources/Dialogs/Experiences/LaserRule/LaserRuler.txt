@@ -1,0 +1,11 @@
+Our laser ruler is a handheld device.
+
+B is a mirror that reflects only photons of a certain frequency. The photon passing through the mirror to reach point C serves as a reference.
+
+---
+
+Since the distance ABCBA is equal to the distance ABDBA, we can exclude this distance from the equation (as well as the time needed by electronics) by starting the stopwatch when the reference photon has completed its round trip.
+
+---
+
+The stopwatch thus measures solely the round-trip time from D to our measuring mirror. It is now sufficient to divide this time by two (to obtain only the one-way time) and apply the time rule in seconds multiplied by 299792458 to obtain the distance traveled.
